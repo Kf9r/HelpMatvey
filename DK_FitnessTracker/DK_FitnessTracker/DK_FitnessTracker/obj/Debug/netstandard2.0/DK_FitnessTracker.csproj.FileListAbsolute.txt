@@ -1,0 +1,15 @@
+C:\Users\B 205\source\repos\DK_FitnessTracker\DK_FitnessTracker\DK_FitnessTracker\bin\Debug\netstandard2.0\DK_FitnessTracker.deps.json
+C:\Users\B 205\source\repos\DK_FitnessTracker\DK_FitnessTracker\DK_FitnessTracker\bin\Debug\netstandard2.0\DK_FitnessTracker.dll
+C:\Users\B 205\source\repos\DK_FitnessTracker\DK_FitnessTracker\DK_FitnessTracker\bin\Debug\netstandard2.0\ref\DK_FitnessTracker.dll
+C:\Users\B 205\source\repos\DK_FitnessTracker\DK_FitnessTracker\DK_FitnessTracker\bin\Debug\netstandard2.0\DK_FitnessTracker.pdb
+C:\Users\B 205\source\repos\DK_FitnessTracker\DK_FitnessTracker\DK_FitnessTracker\obj\Debug\netstandard2.0\DK_FitnessTracker.csproj.AssemblyReference.cache
+C:\Users\B 205\source\repos\DK_FitnessTracker\DK_FitnessTracker\DK_FitnessTracker\obj\Debug\netstandard2.0\DK_FitnessTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B 205\source\repos\DK_FitnessTracker\DK_FitnessTracker\DK_FitnessTracker\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\B 205\source\repos\DK_FitnessTracker\DK_FitnessTracker\DK_FitnessTracker\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\B 205\source\repos\DK_FitnessTracker\DK_FitnessTracker\DK_FitnessTracker\obj\Debug\netstandard2.0\DK_FitnessTracker.AssemblyInfoInputs.cache
+C:\Users\B 205\source\repos\DK_FitnessTracker\DK_FitnessTracker\DK_FitnessTracker\obj\Debug\netstandard2.0\DK_FitnessTracker.AssemblyInfo.cs
+C:\Users\B 205\source\repos\DK_FitnessTracker\DK_FitnessTracker\DK_FitnessTracker\obj\Debug\netstandard2.0\DK_FitnessTracker.csproj.CoreCompileInputs.cache
+C:\Users\B 205\source\repos\DK_FitnessTracker\DK_FitnessTracker\DK_FitnessTracker\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\B 205\source\repos\DK_FitnessTracker\DK_FitnessTracker\DK_FitnessTracker\obj\Debug\netstandard2.0\DK_FitnessTracker.dll
+C:\Users\B 205\source\repos\DK_FitnessTracker\DK_FitnessTracker\DK_FitnessTracker\obj\Debug\netstandard2.0\ref\DK_FitnessTracker.dll
+C:\Users\B 205\source\repos\DK_FitnessTracker\DK_FitnessTracker\DK_FitnessTracker\obj\Debug\netstandard2.0\DK_FitnessTracker.pdb
