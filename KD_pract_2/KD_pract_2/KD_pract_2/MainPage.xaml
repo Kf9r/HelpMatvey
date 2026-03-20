@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="KD_pract_2.MainPage">
+
+    <StackLayout>
+        <StackLayout Padding="20" VerticalOptions="CenterAndExpand">
+
+            <Label Text="Введите ваше имя"
+                   FontSize="24"
+                   HorizontalOptions="Center" />
+
+            <Entry Placeholder="Введите ваше имя"
+                   HorizontalOptions="FillAndExpand"
+                   x:Name="nameEntry" />
+
+            <Button Text="Поздороваться"
+                    HorizontalOptions="Center"
+                    Clicked="GreetButton_Clicked" />
+
+            <Label x:Name="greetingLabel" />
+
+        </StackLayout>
+    </StackLayout>
+
+</ContentPage>
