@@ -1,0 +1,29 @@
+C:\Users\B 205\source\repos\DK_Switch\DK_Switch\DK_Switch\bin\Debug\netstandard2.0\DK_Switch.deps.json
+C:\Users\B 205\source\repos\DK_Switch\DK_Switch\DK_Switch\bin\Debug\netstandard2.0\DK_Switch.dll
+C:\Users\B 205\source\repos\DK_Switch\DK_Switch\DK_Switch\bin\Debug\netstandard2.0\ref\DK_Switch.dll
+C:\Users\B 205\source\repos\DK_Switch\DK_Switch\DK_Switch\bin\Debug\netstandard2.0\DK_Switch.pdb
+C:\Users\B 205\source\repos\DK_Switch\DK_Switch\DK_Switch\obj\Debug\netstandard2.0\DK_Switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B 205\source\repos\DK_Switch\DK_Switch\DK_Switch\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\B 205\source\repos\DK_Switch\DK_Switch\DK_Switch\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\B 205\source\repos\DK_Switch\DK_Switch\DK_Switch\obj\Debug\netstandard2.0\DK_Switch.AssemblyInfoInputs.cache
+C:\Users\B 205\source\repos\DK_Switch\DK_Switch\DK_Switch\obj\Debug\netstandard2.0\DK_Switch.AssemblyInfo.cs
+C:\Users\B 205\source\repos\DK_Switch\DK_Switch\DK_Switch\obj\Debug\netstandard2.0\DK_Switch.csproj.CoreCompileInputs.cache
+C:\Users\B 205\source\repos\DK_Switch\DK_Switch\DK_Switch\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\B 205\source\repos\DK_Switch\DK_Switch\DK_Switch\obj\Debug\netstandard2.0\DK_Switch.dll
+C:\Users\B 205\source\repos\DK_Switch\DK_Switch\DK_Switch\obj\Debug\netstandard2.0\ref\DK_Switch.dll
+C:\Users\B 205\source\repos\DK_Switch\DK_Switch\DK_Switch\obj\Debug\netstandard2.0\DK_Switch.pdb
+D:\Code\DK_Switch\DK_Switch\DK_Switch\bin\Debug\netstandard2.0\DK_Switch.deps.json
+D:\Code\DK_Switch\DK_Switch\DK_Switch\bin\Debug\netstandard2.0\DK_Switch.dll
+D:\Code\DK_Switch\DK_Switch\DK_Switch\bin\Debug\netstandard2.0\ref\DK_Switch.dll
+D:\Code\DK_Switch\DK_Switch\DK_Switch\bin\Debug\netstandard2.0\DK_Switch.pdb
+D:\Code\DK_Switch\DK_Switch\DK_Switch\obj\Debug\netstandard2.0\DK_Switch.csproj.AssemblyReference.cache
+D:\Code\DK_Switch\DK_Switch\DK_Switch\obj\Debug\netstandard2.0\DK_Switch.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\DK_Switch\DK_Switch\DK_Switch\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Code\DK_Switch\DK_Switch\DK_Switch\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Code\DK_Switch\DK_Switch\DK_Switch\obj\Debug\netstandard2.0\DK_Switch.AssemblyInfoInputs.cache
+D:\Code\DK_Switch\DK_Switch\DK_Switch\obj\Debug\netstandard2.0\DK_Switch.AssemblyInfo.cs
+D:\Code\DK_Switch\DK_Switch\DK_Switch\obj\Debug\netstandard2.0\DK_Switch.csproj.CoreCompileInputs.cache
+D:\Code\DK_Switch\DK_Switch\DK_Switch\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Code\DK_Switch\DK_Switch\DK_Switch\obj\Debug\netstandard2.0\DK_Switch.dll
+D:\Code\DK_Switch\DK_Switch\DK_Switch\obj\Debug\netstandard2.0\ref\DK_Switch.dll
+D:\Code\DK_Switch\DK_Switch\DK_Switch\obj\Debug\netstandard2.0\DK_Switch.pdb

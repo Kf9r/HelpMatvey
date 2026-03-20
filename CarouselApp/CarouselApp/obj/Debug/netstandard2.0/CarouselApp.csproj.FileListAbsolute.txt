@@ -1,0 +1,15 @@
+C:\Users\B 205\source\repos\CarouselApp\CarouselApp\bin\Debug\netstandard2.0\CarouselApp.deps.json
+C:\Users\B 205\source\repos\CarouselApp\CarouselApp\bin\Debug\netstandard2.0\CarouselApp.dll
+C:\Users\B 205\source\repos\CarouselApp\CarouselApp\bin\Debug\netstandard2.0\ref\CarouselApp.dll
+C:\Users\B 205\source\repos\CarouselApp\CarouselApp\bin\Debug\netstandard2.0\CarouselApp.pdb
+C:\Users\B 205\source\repos\CarouselApp\CarouselApp\obj\Debug\netstandard2.0\CarouselApp.csproj.AssemblyReference.cache
+C:\Users\B 205\source\repos\CarouselApp\CarouselApp\obj\Debug\netstandard2.0\CarouselApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B 205\source\repos\CarouselApp\CarouselApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\B 205\source\repos\CarouselApp\CarouselApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\B 205\source\repos\CarouselApp\CarouselApp\obj\Debug\netstandard2.0\CarouselApp.AssemblyInfoInputs.cache
+C:\Users\B 205\source\repos\CarouselApp\CarouselApp\obj\Debug\netstandard2.0\CarouselApp.AssemblyInfo.cs
+C:\Users\B 205\source\repos\CarouselApp\CarouselApp\obj\Debug\netstandard2.0\CarouselApp.csproj.CoreCompileInputs.cache
+C:\Users\B 205\source\repos\CarouselApp\CarouselApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\B 205\source\repos\CarouselApp\CarouselApp\obj\Debug\netstandard2.0\CarouselApp.dll
+C:\Users\B 205\source\repos\CarouselApp\CarouselApp\obj\Debug\netstandard2.0\ref\CarouselApp.dll
+C:\Users\B 205\source\repos\CarouselApp\CarouselApp\obj\Debug\netstandard2.0\CarouselApp.pdb

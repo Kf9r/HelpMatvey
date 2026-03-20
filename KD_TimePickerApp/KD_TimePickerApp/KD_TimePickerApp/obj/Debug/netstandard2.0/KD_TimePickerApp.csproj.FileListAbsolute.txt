@@ -1,0 +1,15 @@
+C:\Users\B 205\source\repos\KD_TimePickerApp\KD_TimePickerApp\KD_TimePickerApp\bin\Debug\netstandard2.0\KD_TimePickerApp.deps.json
+C:\Users\B 205\source\repos\KD_TimePickerApp\KD_TimePickerApp\KD_TimePickerApp\bin\Debug\netstandard2.0\KD_TimePickerApp.dll
+C:\Users\B 205\source\repos\KD_TimePickerApp\KD_TimePickerApp\KD_TimePickerApp\bin\Debug\netstandard2.0\ref\KD_TimePickerApp.dll
+C:\Users\B 205\source\repos\KD_TimePickerApp\KD_TimePickerApp\KD_TimePickerApp\bin\Debug\netstandard2.0\KD_TimePickerApp.pdb
+C:\Users\B 205\source\repos\KD_TimePickerApp\KD_TimePickerApp\KD_TimePickerApp\obj\Debug\netstandard2.0\KD_TimePickerApp.csproj.AssemblyReference.cache
+C:\Users\B 205\source\repos\KD_TimePickerApp\KD_TimePickerApp\KD_TimePickerApp\obj\Debug\netstandard2.0\KD_TimePickerApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B 205\source\repos\KD_TimePickerApp\KD_TimePickerApp\KD_TimePickerApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\B 205\source\repos\KD_TimePickerApp\KD_TimePickerApp\KD_TimePickerApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\B 205\source\repos\KD_TimePickerApp\KD_TimePickerApp\KD_TimePickerApp\obj\Debug\netstandard2.0\KD_TimePickerApp.AssemblyInfoInputs.cache
+C:\Users\B 205\source\repos\KD_TimePickerApp\KD_TimePickerApp\KD_TimePickerApp\obj\Debug\netstandard2.0\KD_TimePickerApp.AssemblyInfo.cs
+C:\Users\B 205\source\repos\KD_TimePickerApp\KD_TimePickerApp\KD_TimePickerApp\obj\Debug\netstandard2.0\KD_TimePickerApp.csproj.CoreCompileInputs.cache
+C:\Users\B 205\source\repos\KD_TimePickerApp\KD_TimePickerApp\KD_TimePickerApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\B 205\source\repos\KD_TimePickerApp\KD_TimePickerApp\KD_TimePickerApp\obj\Debug\netstandard2.0\KD_TimePickerApp.dll
+C:\Users\B 205\source\repos\KD_TimePickerApp\KD_TimePickerApp\KD_TimePickerApp\obj\Debug\netstandard2.0\ref\KD_TimePickerApp.dll
+C:\Users\B 205\source\repos\KD_TimePickerApp\KD_TimePickerApp\KD_TimePickerApp\obj\Debug\netstandard2.0\KD_TimePickerApp.pdb
