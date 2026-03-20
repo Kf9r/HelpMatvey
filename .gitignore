@@ -1,55 +1,49 @@
-# Prerequisites
-*.d
+# Build output directories
+**/bin/
+**/obj/
 
-# Object files
-*.o
-*.ko
-*.obj
-*.elf
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.userprefs
+*.pidb
 
-# Linker output
-*.ilk
-*.map
-*.exp
+# Xamarin / Mobile
+*.apk
+*.aab
+*.keystore
+*.ipa
+*.mds
+*.mds.zip
 
-# Precompiled Headers
-*.gch
-*.pch
+# Xcode / iOS
+*.xcuserstate
+*.xcuserdata
+*.xcscheme
 
-# Libraries
-*.lib
-*.a
-*.la
-*.lo
+# NuGet
+packages/
+*.nupkg
 
-# Shared objects (inc. Windows DLLs)
-*.dll
-*.so
-*.so.*
-*.dylib
+# IDE
+.idea/
+.vscode/
+*.sln.iml
 
-# Executables
-*.exe
-*.out
-*.app
-*.i*86
-*.x86_64
-*.hex
+# OS
+.DS_Store
 
-# Debug files
-*.dSYM/
-*.su
-*.idb
-*.pdb
+# Test results
+TestResults/
+*.trx
 
-# Kernel Module Compile Results
-*.mod*
-*.cmd
-.tmp_versions/
-modules.order
-Module.symvers
-Mkfile.old
-dkms.conf
+# Logs
+*.log
 
-# debug information files
-*.dwo
+# Platform-specific build artifacts
+**/*.Android/bin/
+**/*.Android/obj/
+**/*.iOS/bin/
+**/*.iOS/obj/
